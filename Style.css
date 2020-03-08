@@ -1,6 +1,13 @@
 #my_body { 
     background-color:black !important;
 }
+#My_name {
+    color:black;
+}
+#navlink {
+    color: white;
+}
+
 #sticky-footer {
     max-width: 100%;
     color: white;

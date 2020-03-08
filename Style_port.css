@@ -1,6 +1,12 @@
 body {
     background-color: black !important;
 }
+#My_name {
+    color: black;
+}
+#navlink {
+    color: white;
+}
 .container {
     height: 500px;
     width: 500px;
@@ -8,7 +14,7 @@ body {
     align-content: center;
 }
 h1 {
-    color: white;
+    color: blue;
 }
 .card {
      background-color: blue;
@@ -24,5 +30,4 @@ h1 {
     background-color:gray;
     color: white;
     text-align: center;
-      
 }
