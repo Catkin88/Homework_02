@@ -12,19 +12,17 @@ h1 {
 }
 .card {
      background-color: blue;
-     margin: 5px;
      text-align: center;
      color: white;
 }
 #sticky-footer {
     max-width: 100%;
     color: white;
-    position: fixed;
+    position: sticky;
     left: 0;
     bottom: 0;
-        width: 100%;
-        background-color:gray;
-        color: white;
-        text-align: center;
+    background-color:gray;
+    color: white;
+    text-align: center;
       
 }

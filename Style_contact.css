@@ -10,3 +10,15 @@ body {
 #Message {
     max-width: 500px;
 }
+#sticky-footer {
+    max-width: 100%;
+    color: white;
+    position: fixed;
+    left: 0;
+    bottom: 0 !important;
+        width: 100%;
+        background-color:gray;
+        color: white;
+        text-align: center;
+      
+}
