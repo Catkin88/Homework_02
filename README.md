@@ -1,7 +1,7 @@
 # Homework_02
 
 Responsive portfolio:
-03/08/202020
+03/08/2020
 
 Screenshots:
 ![image](https://user-images.githubusercontent.com/61170475/76171587-a021be80-6152-11ea-8140-d9d3cec6402c.png)
